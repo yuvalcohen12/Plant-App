@@ -1,8 +1,6 @@
 # Plant-App
 # PlantAI - Frontend Web Client
 
-Live Demo: [YOUR_GITHUB_PAGES_LINK]
-
 A cross-platform web application built with Flutter that allows users to identify plants via image upload, search for specific care instructions, and manage a personal digital garden. 
 
 ## Core Features
